@@ -13,4 +13,5 @@ ollama pull llama2
 
 ## Exemplo:
 
+- https://www.loom.com/share/26bb58478dbd4990bffdb89d52e2a13c?sid=cad3fad1-af24-4a8f-a1ad-e34c3a653f09
 
